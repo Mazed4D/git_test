@@ -1,0 +1,1 @@
+This is Mazed's first git project!"
